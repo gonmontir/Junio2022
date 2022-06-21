@@ -1,1 +1,1 @@
-# Junio2022
+# Ejercicio práctico para el examen de Junio2022
