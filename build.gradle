@@ -102,7 +102,7 @@ test {
 
 
 //Para publicar paquetes en github
-//group = 'A4I'
+//group = 'Junio2022'
 publishing {
     repositories {
         maven {
