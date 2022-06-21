@@ -1,4 +1,4 @@
-name: ACCIONES JUNIO 2022 GONMONTIR
+
 on: [push]
 jobs:
   Explore-GitHub-Actions:
