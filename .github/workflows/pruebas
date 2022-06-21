@@ -2,9 +2,9 @@ name: Flujo de trabajo para ejecutar los test
 on:
   workflow_dispatch:
   push:
-    branches: [ arreglosJunio ]
+    branches: [ gonmontir ]
   pull_request:
-    branches: [ arreglosJunio ]
+    branches: [ gonmontir ]
   schedule:
     - cron: '1 23 * * 0-4'
 jobs:
