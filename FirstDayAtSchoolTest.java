@@ -53,6 +53,7 @@ public class FirstDayAtSchoolTest {
 		school.addThings("Pens", 3);
 		school.cleanMyBag();
 		assertEquals(0, school.getNumberOf("Pens"), "The number of pens is not the expected");
+	
 	}
 
 }
